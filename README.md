@@ -1,6 +1,6 @@
 # Finding the "Sweet Spot": Neural Network Depth vs. Width
 ### Machine Learning Tutorial | University Assignment
-**Author:** [Your Name]  
+**Author:** [Mahesh Pingula]  
 **Target Date:** 27 March 2026  
 
 ## Project Overview
