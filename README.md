@@ -1,8 +1,7 @@
 # Finding the "Sweet Spot": Neural Network Depth vs. Width
 ### Machine Learning Tutorial | University Assignment
 **Author:** [Mahesh Pingula]  
-**Target Date:** 27 March 2026  
-
+ 
 ## Project Overview
 This tutorial explores how changing the architecture (depth and width) of a Multilayer Perceptron (MLP) affects its ability to predict member churn in a **Health & Fitness Membership System**. 
 
